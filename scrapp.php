@@ -3,7 +3,7 @@
  * Plugin Name:         Scrapper Apps
  * Plugin URI:          https://ficevi.com/
  * Description:         Scrapper for sites of Apps
- * Version:             1.0.0
+ * Version:             1.0.1
  * Requires at least:   5.2
  * Requires PHP:        7.0
  * Author:              César De Paz

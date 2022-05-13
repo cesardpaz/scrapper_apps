@@ -6,3 +6,9 @@
 
 - Plugin generation.
 - Plugin panel with Materialize
+
+## [1.0.1] - 2022-05-13
+
+### Fixed
+
+- Minor bugs
