@@ -11,4 +11,4 @@
 
 ### Fixed
 
-- Minor bugs repared
+- Minor bugs repair
