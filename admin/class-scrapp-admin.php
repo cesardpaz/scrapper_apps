@@ -18,8 +18,6 @@ class SCRAPP_Admin
         {
             if( $_GET['page'] == 'scrapper_apps' || $_GET['page'] == 'scrapper_help' )
             {
-                wp_enqueue_style( 'bootstrap5_admin_css', 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css', array(), '5.0.2', 'all' );
-                wp_enqueue_style( 'material_icon_admin_css', 'https://fonts.googleapis.com/icon?family=Material+Icons', array(), '1.0.0', 'all' );
                 wp_enqueue_style( 'scrapp_admin_css', SCRAPP_DIR_URI . 'admin/css/admin_scrapp.css', array(), filemtime(SCRAPP_DIR_PATH . 'admin/css/admin_scrapp.css'), 'all' );
             }
         }

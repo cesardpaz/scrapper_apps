@@ -1,0 +1,22 @@
+{
+  "name": "scrapper_apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw" : "npx tailwindcss -i ./src/input.css -o ./admin/css/admin_scrapp.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesardpaz/scrapper_apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesardpaz/scrapper_apps/issues"
+  },
+  "homepage": "https://github.com/cesardpaz/scrapper_apps#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
